@@ -1,0 +1,3 @@
+[submodule "CustomerService"]
+	path = CustomerService
+	url = https://github.com/rory619/CICDPROJECT
